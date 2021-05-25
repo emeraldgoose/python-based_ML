@@ -2,7 +2,7 @@
 #include "NeuralNetwork.h"
 
 // 컴파일 명령어
-// clang++ -std=c++11 -g /Users/{Username}/Documents/codingTest/ML/main.cpp /Users/{Username}/Documents/codingTest/ML/NeuralNetwork.cpp -o /Users/minseongkim/Documents/codingTest/ML/main
+// clang++ -std=c++11 -g /Users/{Username}/Documents/codingTest/ML/main.cpp /Users/{Username}/Documents/codingTest/ML/NeuralNetwork.cpp -o /Users/{Username}/Documents/codingTest/ML/main
 
 int main() {
     VectorND<D> x(2);
